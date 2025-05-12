@@ -40,7 +40,6 @@ This project demonstrates how to perform **predictive analytics** using Python o
 ### 4. Model Evaluation
 
 - Used `r² score` to evaluate model performance on test set
-- Final test accuracy: **0.6535** (≈65.35%)
 
 ---
 
